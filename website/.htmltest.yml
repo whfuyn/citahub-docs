@@ -1,0 +1,12 @@
+DirectoryPath: "build/citahub-docs"
+DirectoryIndex: "index.html"
+FileExtension: ".html"
+CheckMeta: false
+CheckGeneric: false
+CheckScripts: false
+CheckExternal: false
+IgnoreInternalEmptyHash: true
+IgnoreAltMissing: true
+LogLevel: 3
+OutputDir: htmltest.log
+IgnoreDirectoryMissingTrailingSlash: true
